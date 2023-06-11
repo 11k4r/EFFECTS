@@ -1,5 +1,8 @@
 # EFFECTS
 
+![plot](LOGO.png)
+
+
 EFFECTS is a Python library for explaianle feature extraction for time series data. EFFECTS provide both feature extractor and feature explorer to maximize the performance and the explainability of the model.
 
 
